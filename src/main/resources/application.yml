@@ -1,0 +1,8 @@
+author:
+  name : Vikas N
+  email : vikasn1845@gmail.com
+
+endpoints:
+  shutdown:
+    sensitive : false
+    enabled : true
