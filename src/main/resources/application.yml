@@ -1,6 +1,7 @@
 author:
   name : Vikas N
   email : vikasn1845@gmail.com
+  url: https://vikasnar.github.io/
 
 endpoints:
   shutdown:
